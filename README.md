@@ -1,8 +1,8 @@
-# React Starting Template
+# `React Starting Template`
 
 This repository is starting template for react web application
 
-## Added packages:
+## `Added packages:`
 
 "@hookform/resolvers": "^2.9.1",
 "@testing-library/jest-dom": "^5.16.4",
@@ -20,11 +20,11 @@ This repository is starting template for react web application
 "web-vitals": "^2.1.4",
 "yup": "^0.32.11"
 
-## Other info:
+## `Other info:`
 
 Contains vsCode prettier for better visual code
 
-## Available Scripts
+## `Available Scripts`
 
 In the project directory, you can run:
 
