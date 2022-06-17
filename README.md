@@ -1,6 +1,7 @@
 # `React Starting Template`
 
-This repository is starting template for react web application
+React user Authentication cheat sheet using axios.
+Contains register, react protected routers, role-based-authorication, JWT Access, Refresh Tokens, localStorage
 
 ## `Added packages:`
 
