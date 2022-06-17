@@ -4,7 +4,7 @@ This repository is starting template for react web application
 
 ## `Added packages:`
 
-"@hookform/resolvers": "^2.9.1",
+"@hookform/resolvers": "^2.9.1".
 "@testing-library/jest-dom": "^5.16.4",
 "@testing-library/react": "^13.2.0",
 "@testing-library/user-event": "^13.5.0",
