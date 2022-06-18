@@ -3,6 +3,12 @@
 React user Authentication cheat sheet using axios.
 Contains register, react protected routers, role-based-authorication, JWT Access, Refresh Tokens, localStorage
 
+## `Description (Project InProgress):`
+
+Project build for learning purpose,
+Trainer: https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PRCpm9clX0WiBEMB70FWwd
+Finish: 1. 39:38
+
 ## `Added packages:`
 
 "@hookform/resolvers": "^2.9.1".

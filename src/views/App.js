@@ -1,10 +1,11 @@
+import Register from 'components/templates/Register/Register';
 import './App.css';
 import { Wrapper } from './App.style';
 
 function App() {
     return (
-        <Wrapper>
-            <h1>Hi</h1>
+        <Wrapper className="App">
+            <Register />
         </Wrapper>
     );
 }
